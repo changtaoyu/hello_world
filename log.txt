@@ -1,0 +1,36 @@
+commit ee0201c951a07b068691d3e7412cd14595419e0d
+Merge: c89377a a68fe95
+Author: changtaoyu <changtao_yu@my.uri.edu>
+Date:   Mon Apr 16 17:41:51 2018 -0400
+
+    Merge branch 'new_branch'
+
+commit a68fe95eecddfa92ed553e7b006ea8add23aeead
+Author: changtaoyu <changtao_yu@my.uri.edu>
+Date:   Mon Apr 16 17:40:29 2018 -0400
+
+    xxx
+
+commit c89377a3fdc22ca4a5302d771028652d3c83dec5
+Author: Najib <32004868+nishaq503@users.noreply.github.com>
+Date:   Mon Apr 16 17:39:13 2018 -0400
+
+    Update README.md
+
+commit 9abbd391def59fe74c5429447a0775c4bb45e5e0
+Author: changtaoyu <changtao_yu@my.uri.edu>
+Date:   Mon Apr 16 17:31:11 2018 -0400
+
+    Log
+
+commit 4eee3a317b75122df9fb281d665d11171b497198
+Author: changtaoyu <changtao_yu@my.uri.edu>
+Date:   Mon Apr 16 17:18:32 2018 -0400
+
+    Hello_world
+
+commit 85f238beb07afcf93b751f86944e66b919fd76f3
+Author: changtaoyu <changtao_yu@my.uri.edu>
+Date:   Mon Apr 16 17:06:10 2018 -0400
+
+    Initial commit
